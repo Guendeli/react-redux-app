@@ -1,47 +1,47 @@
 [  
    {  
       "id":0,
-      "title":"Webpack",
-      "description":"Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+      "title":"Heavy Metal",
+      "description":"The protagonist arrives on a Harley, kills the dragon, drinks a few beers and fucks the princess."
    },
    {  
       "id":1,
-      "title":"React",
-      "description":"React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+      "title":"Trash Metal",
+      "description":"The protagonist arrives, fights the dragon, saves the princess and fucks her."
    },
    {  
       "id":2,
-      "title":"Redux",
-      "description":"Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test."
+      "title":"Power Metal",
+      "description":"The protagonist arrives riding a white unicorn, escapes from the dragon, saves the princess and makes love to her in an enchanted forest."
    },
    {  
       "id":3,
-      "title":"React-Redux",
-      "description":"React-Redux is the official set of bindings between the React and Redux libraries. With this library you can keep your views and data in sync."
+      "title":"Folk Metal",
+      "description":"The protagonist arrives with some friends playing accordions, violins, flutes and many more weird instruments, the dragon falls sleep (because of all the dancing). Then they all leave without the princess."
    },
    {  
       "id":4,
-      "title":"Lodash",
-      "description":"A modern JavaScript utility library delivering modularity, performance, & extras. Lodash is released under the MIT license & supports modern environments."
+      "title":"Viking Metal",
+      "description":"The protagonist arrives in a ship, kills the dragon with his mighty axe, skins the dragon and eats it, rapes the princess to death, steals her belongings and burns the castle before leaving."
    },
    {  
       "id":5,
-      "title":"Redux-Thunk",
-      "description":"Redux Thunk middleware allows you to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met."
+      "title":"Death Metal",
+      "description":"The protagonist arrives, kills the dragon, fucks the princess and kills her, fucks her again, then leaves."
    },
    {  
       "id":6,
-      "title":"ESLint",
-      "description":"ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines."
+      "title":"Doom Metal",
+      "description":"The protagonist arrives, sees the size of the dragon and thinks he could never beat him, then he gets depressed and commits suicide. The dragon eats his body and the princess as dessert. That's the end of the sad story."
    },
    {  
       "id":7,
-      "title":"Babel",
-      "description":"Babel has support for the latest version of JavaScript through syntax transformers. These plugins allow you to use new syntax, right now without waiting for browser support."
+      "title":"Progessive Metal",
+      "description":"The protagonist arrives with a guitar and plays a solo of 26 minutes. The dragon kills himself out of boredom. The protagonist arrives at the princess bedroom, plays another solo with all the techniques and tunes he learned in the last year at the conservatory. The princess escapes looking for the HEAVY METAL protagonist."
    },
    {  
       "id":8,
-      "title":"Axios",
-      "description":"Promise based HTTP client for the browser and node.js. With Axios, you can make XMLHttpRequests from the browser or Node with the full Promise Api."
+      "title":"Grind Gore",
+      "description":"The protagonist arrives, screams something completely undecipherable for about 2 minutes and then leaves."
    }
 ]
